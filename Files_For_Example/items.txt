@@ -1,0 +1,22 @@
+N  Color     Category    Bool    Date        Float
+
+0  white     pants        1     18022019    23.000000
+1  white     socks        2     19012015    3.330000
+2  green     pants        1     28082015    23.000000
+3  black     underwear    2     47082012    4.500000
+4  green     underwear    2     23062018    4.500000
+5  black     underwear    1     47112019    4.500000
+6  black     underwear    2     20062013    4.500000
+7  green     underwear    2     44012011    4.500000
+8  black     socks        2     29022012    3.330000
+9  black     underwear    1     20072019    4.500000
+10 white     pants        1     46062018    23.000000
+11 yellow    shirt        2     43112016    13.330000
+12 white     shirt        2     10062016    13.330000
+13 green     socks        1     49072014    3.330000
+14 white     pants        1     21072011    23.000000
+15 white     sheet        1     10052017    20.000000
+16 green     socks        2     13092013    3.330000
+17 yellow    sheet        1     19092017    20.000000
+18 green     socks        1     47032014    3.330000
+19 green     shirt        1     10092017    13.330000
